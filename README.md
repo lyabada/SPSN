@@ -24,7 +24,7 @@ Unlike NeRF-based models relying heavily on RGB values, this method only uses si
 - A single implicit MLP predicts object occupancy from 3D points.
 - Uses **SFS** to initialize object shape.
 - Incorporates **photometric normals** into the loss function.
-- Introduces a **shift-based surface refinement** strategy using the **Regula Falsi** method.
+- Incorporates a **Shifting Points** strategy used in our previous work.
 - Compatible with **DiLiGenT-MV** dataset.
 
 ---
@@ -67,7 +67,7 @@ dataset/
 Main training and reconstruction script:
 
 ```bash
-python GaS-MVPS.py
+python SPSN-MVPS.py
 ```
 
 Parameters like object name, number of points, learning rate, etc., can be edited in the `GaS-MVPS.py` script.

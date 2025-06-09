@@ -6,7 +6,10 @@ This repository contains the official code for the paper:
 **SPSN-MVPS: Shifting Points, Silhouettes and Neural Inverse for Solving Multi-View Photometric Stereo**  
 📄 Published in *Signal, Image and Video Processing*, 2025  
 📌 [DOI: 10.1007/s11760-025-04304-3](https://doi.org/10.1007/s11760-025-04304-3)  
-🔗 [Paper PDF](https://www.researchgate.net/publication/384698230_Enhancing_PSNeRF_with_Shape-from-Silhouette_for_efficient_and_accurate_3D_reconstruction/citations?latestCitations=PB%3A392440934)
+🔗 [Paper PDF (researchgate)](https://www.researchgate.net/publication/384698230_Enhancing_PSNeRF_with_Shape-from-Silhouette_for_efficient_and_accurate_3D_reconstruction/citations?latestCitations=PB%3A392440934)
+🔗 [Paper PDF (view-only version - Springer)](https://rdcu.be/epFgW)
+
+
 
 ---
 
